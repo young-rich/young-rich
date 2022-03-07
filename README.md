@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @young-rich
-- 👀 I’m interested in JAVA and Mechine Learning
+- 👀 I’m interested in JAVA and Machine Learning
 - 📫 How to reach me 3200704011@stu.cuit.edu.cn
 
 <!---
